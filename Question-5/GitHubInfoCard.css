@@ -1,0 +1,34 @@
+.github-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 300px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 10px;
+}
+
+.github-card img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.github-card h2 {
+  margin: 10px 0;
+  font-size: 1.5em;
+}
+
+.github-card p {
+  margin: 5px 0;
+}
+
+.github-card a {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.github-card a:hover {
+  text-decoration: underline;
+}
