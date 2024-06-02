@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  margin: 2rem;
+}
+
+form {
+  margin-bottom: 2rem;
+}
+
+input {
+  margin-left: 1rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+button {
+  margin-left: 1rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.wish-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wish-card {
+  background-color: #f0f8ff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 0.5rem;
+  width: 300px;
+  text-align: center;
+  font-size: 1.2rem;
+}
